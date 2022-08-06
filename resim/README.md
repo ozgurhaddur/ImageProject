@@ -2,7 +2,7 @@
 Search Keyword for Image Application
 
 ## Giriş
-Çalışmada belirlenen amaç, bir uygulama gerçekleştirimi ile beraber bir anahtar kelime aratarak görsele ulaşılmasının sağlandığı bir uygulama gerçekleştirilmesidir.
+Çalışmada belirlenen amaç, bir anahtar kelime aratarak görsellere ulaşılmasının sağlandığı bir uygulama gerçekleştirilmesidir.
 
 ## Yöntem
 React JS tabanlı yapı kullanılarak bir web uygulaması hazırlanmıştır.
