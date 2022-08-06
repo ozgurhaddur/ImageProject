@@ -1,0 +1,8 @@
+.app-container /* Container align */
+{
+    display: flex;
+    justify-content: center;
+    padding: 10px 40px;
+    flex-direction: column;
+
+}
